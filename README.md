@@ -1,6 +1,6 @@
 ### 🙃 Soup? I'm Nac.
 
-I'm an 🇺🇸 American code-explorer who traverses the internet for fun.
+I'm an American code-explorer who traverses the internet for fun.
 
 ## Tools and Resources 🛠
 ![Kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white)
