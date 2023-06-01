@@ -8,7 +8,7 @@ a person who likes to make cool stuff
 
 ## Contact Me! 🗨
 ![Reddit:my-psm](https://img.shields.io/badge/my--psm-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
-![Discord:@my-psm#9042](https://img.shields.io/badge/my--psm%239042-%235662f6.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Discord:@nacroni#9042](https://img.shields.io/badge/nacroni%239042-%235662f6.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Outlook:thespokenone209@hotmail.com](https://img.shields.io/badge/thespokenone209%40hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 ![Gmail:spongebobfanp@gmail.com](https://img.shields.io/badge/spongebobfanp@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![mas.to:@my_psm](https://img.shields.io/badge/-@my__psm-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)
