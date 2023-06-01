@@ -1,6 +1,6 @@
 ### nacroni
 
-some perosn who makes stuff
+a person who likes to make cool stuff
 
 ## Tools and Resources 🛠
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -13,10 +13,10 @@ some perosn who makes stuff
 ![Gmail:spongebobfanp@gmail.com](https://img.shields.io/badge/spongebobfanp@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![mas.to:@my_psm](https://img.shields.io/badge/-@my__psm-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)
 ![TikTok:@my_psm](https://img.shields.io/badge/@my__psm-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
-![Twitter:@ps_move](https://img.shields.io/badge/@ps__move-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![YouTube:@my-psm](https://img.shields.io/badge/@my--psm-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+![Twitter:@nacroni_](https://img.shields.io/badge/@nacroni__-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![YouTube:@Nacroni](https://img.shields.io/badge/@Nacroni-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
-You can actually access my YouTube profile [here!](https://www.youtube.com/@my-psm)
+You can actually access my YouTube profile [here!](https://www.youtube.com/@Nacroni)
 
 *Access badges at [Markdown Badges by Ileriayo](https://github.com/Ileriayo/markdown-badges)*
 *<!-- In case you want to add more, just put them in asterisks. -->*
