@@ -1,16 +1,16 @@
-## Hi there 👋
+# Nacroni
 
-<!--
-**Nacroni/Nacroni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> [!IMPORTANT]
+> I am no longer using GitHub for my projects other than website hosting. I will try to seek out other Git hosters such as Codeberg, GitLab, or some other garbage alternative.
 
-Here are some ideas to get you started:
+Hey, I'm Nacroni. I'm some skid who writes code, mainly in Python since I barely know any other language.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages I Know
+
+- Python
+- HTML
+- CSS *(Nothing crazy, just really basic stuff.)*
+
+## Languages I'm Learning
+
+- Lua
